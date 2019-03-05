@@ -1,23 +1,27 @@
-body{
+/*body{
     width:90%;
     margin:auto;
 }
+*/
+@media (max-width: 576px){
+    .descriptionbuttons{
+        display: none;
+    }
 
-.supercarousel{
-    border: 1px solid red;
+/*.supercarousel{
     width:auto;
-    height: auto;
+    height: 400px;
     position: relative;
+    border:solid red;
 }
 #carouselExampleSlidesOnly{
     margin: auto;
     position: absolute;
-    border: 1px solid red;
-}
+}*/
 .descriptionbuttons{
-    margin-top:25%;
-    margin-left: auto;
+    margin-top:23%;
+    width:auto;
+    /*margin-left: auto;
     margin-right: auto;
-    position:absolute;
-    border: 1px solid red;
+    position:absolute;*/
 }
