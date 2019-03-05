@@ -1,0 +1,23 @@
+body{
+    width:90%;
+    margin:auto;
+}
+
+.supercarousel{
+    border: 1px solid red;
+    width:auto;
+    height: auto;
+    position: relative;
+}
+#carouselExampleSlidesOnly{
+    margin: auto;
+    position: absolute;
+    border: 1px solid red;
+}
+.descriptionbuttons{
+    margin-top:25%;
+    margin-left: auto;
+    margin-right: auto;
+    position:absolute;
+    border: 1px solid red;
+}
